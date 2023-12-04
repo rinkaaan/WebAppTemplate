@@ -1,0 +1,12 @@
+[submodule "WebAppTemplateApiTests"]
+	path = WebAppTemplateApiTests
+	url = git@github.com:rinkaaan/WebAppTemplateApiTests.git
+[submodule "WebAppTemplateApi"]
+	path = WebAppTemplateApi
+	url = git@github.com:rinkaaan/WebAppTemplateApi.git
+[submodule "WebAppTemplateReactApp"]
+	path = WebAppTemplateReactApp
+	url = git@github.com:rinkaaan/WebAppTemplateReactApp.git
+[submodule "PythonUtils"]
+	path = PythonUtils
+	url = git@github.com:rinkaaan/PythonUtils.git
