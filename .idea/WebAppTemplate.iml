@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/WebAppTemplateApiTests" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/WebAppTemplateReactApp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PythonUtils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WebAppTemplateModels" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

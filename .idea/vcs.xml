@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GitSharedSettings">
+    <option name="FORCE_PUSH_PROHIBITED_PATTERNS">
+      <list />
+    </option>
+    <option name="synchronizeBranchProtectionRules" value="false" />
+  </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PythonUtils" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/WebAppTemplateApi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/WebAppTemplateApiTests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WebAppTemplateModels" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/WebAppTemplateReactApp" vcs="Git" />
   </component>
 </project>

@@ -10,3 +10,6 @@
 [submodule "PythonUtils"]
 	path = PythonUtils
 	url = git@github.com:rinkaaan/PythonUtils.git
+[submodule "WebAppTemplateModels"]
+	path = WebAppTemplateModels
+	url = git@github.com:rinkaaan/WebAppTemplateModels.git
